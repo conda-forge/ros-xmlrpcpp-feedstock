@@ -1,6 +1,6 @@
 package:
   name: ros-xmlrpcpp
-  version: 1.14.3
+  version: "1.14.4"
 
 source:
   url: https://github.com/ros-gbp/ros_comm-release/archive/release/melodic/xmlrpcpp/1.14.3-0.tar.gz
